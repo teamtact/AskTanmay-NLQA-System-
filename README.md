@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/AskTanmay-NLQA-System-.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/AskTanmay-NLQA-System-)
+
 # Welcome to AskTanmay!
 ![AskTanmay](http://www.tanmaybakshi.com/asktanmaylogo5.png)
 
